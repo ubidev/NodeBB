@@ -1,1 +1,1 @@
-web: ./nodebb
+web: ./nodebb start
